@@ -1,4 +1,4 @@
-# CS-F429-NLP-Final-Group-Project: Literature Shelves and Relations
+# CS F429 NLP Group Project: Literature Shelves and Relations
 
 **Made by:**
 1. [Jathin Narayan](https://github.com/Jathinara)
