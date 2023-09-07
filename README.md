@@ -1,10 +1,11 @@
-# CS F429 NLP Group Project: Literature Shelves and Relations
+# Literature Shelves and Relations
+Created in the fulfillment of the requirements of CS F429: Natural Language Processing
 
 ## Part 1 -
-A python code that divides research papers into shelves and sub-shelves in an hierarchical manner using nltk and spacy libraries. An LDA model forms the basis for the clustering algorithm used to segregate the research papers.
+This code divides research papers into shelves and sub-shelves in a hierarchical manner using [NLTK](https://www.nltk.org/) and [spacy](https://spacy.io/). An LDA model forms the basis for the clustering algorithm.
 
 ## Part 2 -
-Citation graph added based on the results in Part 1. Also includes a model which predicts similarity measure of new literature using jaccard score. 
+Citation graph added based on the results in Part 1. Also predicts similarity measures of new literature using Jaccard score. 
 
 
 
