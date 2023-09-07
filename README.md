@@ -1,12 +1,9 @@
 # Literature Shelves and Relations
-Created in partial fulfillment of the requirements of CS F429: Natural Language Processing (BITS Pilani K K Birla Goa Campus)
+Created in partial fulfillment of the requirements of CS F429: Natural Language Processing conducted at BITS Pilani K K Birla Goa Campus.
 
-## Part 1 -
-This code divides research papers into shelves and sub-shelves in a hierarchical manner using [NLTK](https://www.nltk.org/) and [spacy](https://spacy.io/). An LDA model forms the basis for the clustering algorithm.
+The question is explained in '''NLP_Project_Problem_Statements.pdf'''
 
-## Part 2 -
-Citation graph added based on the results in Part 1. Also predicts similarity measures of new literature using Jaccard score. 
-
+Final codes for Part 1 and Part 2 are present in '''NLP_Part1.ipynb''' and '''NLP_Part2.ipynb''' respectively.
 
 
 **Made by:**
